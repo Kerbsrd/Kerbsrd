@@ -1,8 +1,8 @@
-- 👋 Hi, I’m @Kerbsrd
+- 👋 Hi, I’m Kerbs (@kerbsrd)
 - 👀 I’m interested in gitting it on
-- 🌱 I’m currently learning how to power through suffering
-- 💞️ I’m looking to collaborate on me
-- 📫 How to reach me => play hide and seek with me
+- 🌱 I’m currently learning how to use github
+- 💞️ I’m looking to learn
+- 📫 How to reach me => lrkerber9@gmail
 
 <!---
 Kerbsrd/Kerbsrd is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
